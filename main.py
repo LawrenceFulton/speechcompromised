@@ -1,7 +1,6 @@
 import speech_recognition as sr
 import pyaudio
 
-key = "c2a8e03922ce491d9223b767f48d8d2e"
 
 
 
